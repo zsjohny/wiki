@@ -1,0 +1,167 @@
+Welcome to the World cruises Wiki
+=====
+{{ :wiki:dokuwiki-128.png?200|}}
+
+----------
+
+
+Quick Start Guide
+-------------------
+
+
+----------
+
+
+  * Markdown grammar [help](http://wowubuntu.com/markdown/)
+  * DokuWiki Manual [help](https://www.dokuwiki.org/manual)
+  * YLLYWiki Manual [help](ylly_manual)
+  * DokuWiki Syntax [help](https://www.dokuwiki.org/wiki:syntax)
+
+
+
+  * :?:[[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
+  * :?:[[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
+
+The Current Support functions
+-------------------
+
+
+----------
+
+
+ * [WYSIWYG](https://www.dokuwiki.org/plugin:wysiwyg)
+
+ * [Git Backend](https://www.dokuwiki.org/plugin:gitbacked)
+
+ * [Markdown](https://www.dokuwiki.org/plugin:markdown)
+
+ * [UI Language](https://www.dokuwiki.org/plugin:uilanguage?s[]=dokuwiki&s[]=plugin&s[]=uilanguage)
+
+Will Support Function
+-------------------------
+
+
+----------
+
+
+ * History Cleanup [plugin:clearhistory](https://www.dokuwiki.org/plugin:clearhistory)
+
+ * Insert table  [plugin:edittable](https://www.dokuwiki.org/plugin:edittable) 
+
+ * Create a list of navigation [plugin:indexmenu](https://www.dokuwiki.org/plugin:indexmenu) 
+
+ * Add comments area [plugin:discussion](https://www.dokuwiki.org/plugin:discussion)
+
+ * Add New Page [plugin:addnewpage](https://www.dokuwiki.org/plugin:addnewpage)
+
+ * Searchindex [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
+
+ * Translation [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
+
+ * Create a simple navigation tree based on namespaces [plugin:simplenavi](https://www.dokuwiki.org/plugin:simplenavi)
+
+ * Backup page, revision history, media, configuration, etc. All the content [plugin:backup](https://www.dokuwiki.org/plugin%3Abackup) 
+
+ * Create a simple, checkbox based ToDo List [ToDo Plugin](https://www.dokuwiki.org/plugin%3Atodo)
+
+ * Present a table of contents of the pages of a selected namespace [Note Plugin](https://www.dokuwiki.org/plugin%3Anote)
+
+ * Show which groups exist, what their namespace and page permissions are and which users are in which groups. [Permission Info Plugin](https://www.dokuwiki.org/plugin:permissioninfo)
+
+
+
+Frequently Asked Questions
+--------------------------
+
+
+----------
+
+
+This page is a collection of questions that occur from time to time.
+
+:!: New questions are added by the core developer team only if they really are frequent, so do not add questions here.
+
+**General**
+
+* 8-o[[I forgot my password]]
+
+* [Why is there no login button?](https://www.dokuwiki.org/faq:login)
+
+* [Images don't work](https://www.dokuwiki.org/faq:brokenimages)
+
+
+**Usage**
+
+* [How to add pages?](https://www.dokuwiki.org/page#create_a_page)
+
+* [How to delete pages?](https://www.dokuwiki.org/page#delete_a_page)
+
+* [How to rename pages?](https://www.dokuwiki.org/faq:howto-rename-pages)
+
+* [How to make a redirect page?](https://www.dokuwiki.org/faq:redirect)
+
+* [How to add a sidebar?](https://www.dokuwiki.org/faq:sidebar)
+
+* [Keeping newlines as is?](https://www.dokuwiki.org/faq:newlines)
+
+* [How can I make some pages non-writable?](https://www.dokuwiki.org/faq:pageprotect)
+
+* [HTML does not work](https://www.dokuwiki.org/faq:html)
+
+* [Deleting media files](https://www.dokuwiki.org/faq:deletemedia)
+
+* [How do you upload files?](https://www.dokuwiki.org/faq:upload)
+
+* [Don't cache external images?](https://www.dokuwiki.org/faq:nocache)
+
+* [How do I display Version Information?](https://www.dokuwiki.org/faq:version)
+
+* [How do I get Edit buttons to appear for section editing a page?](https://www.dokuwiki.org/faq:sectionedit)
+
+* [Links or Formatting in Headlines](https://www.dokuwiki.org/faq:headerlinks)
+
+* [How do I pre-insert some default text in newly created pages?](https://www.dokuwiki.org/faq:namespace_templates)
+
+* [Can I reverse the header syntax?](https://www.dokuwiki.org/faq:reverse_headers)
+
+* [How to quote characters?](https://www.dokuwiki.org/faq:quoting)
+
+* [Notifications and Subscriptions](https://www.dokuwiki.org/faq:notifications)
+
+* [Working Lists](https://www.dokuwiki.org/faq:lists)
+
+* [How to backup DokuWiki](https://www.dokuwiki.org/faq:backup)
+
+
+**Troubleshooting**
+
+Changelog
+-------------------
+
+
+----------
+
+This page contains a summary of changes between the official DokuWiki releases. Only the biggest changes are listed here. A complete and detailed log of all changes is available through the [[http://docs.ylly.co/release_notes.html|YLLY DOCS]].
+
+
+- FIXME **fix javascript link not compatibility with ie**
+
+- FIXME **fix firefox compalibility bug**
+
+- FIXME **Fix sailings count after daily update, refine daily tasks**
+
+
+Download
+-------------------
+
+
+----------
+
+* {{:wiki:公司通讯录_2015.7.6更新_.xlsx|}}
+
+* {{:wiki:bestours-003_报销申请单_v1.1_3_.xlsx|}}
+
+----------
+:!: **More suggestion ,please jump to the message board.**
+
+[[Message board]]

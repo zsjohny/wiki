@@ -1,0 +1,7 @@
+功能:
+------------
+  - [文件管理器](http://wiki.ylly.io/doku.php?id=ylly_manual&do=media&ns=)
+  - [网站地图](http://wiki.ylly.io/doku.php?id=ylly_manual&do=index) 
+  - [创建导航树](https://www.dokuwiki.org/plugin:simplenavi) 
+  - [留言板](https://www.dokuwiki.org/plugin:discussion) 
+  - Edit [[sidebar]] to help you generate new a sidebar

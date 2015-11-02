@@ -1,0 +1,167 @@
+欢迎来到世界游轮网wiki！
+=====
+{{ :wiki:dokuwiki-128.png?200|}}
+
+----------
+
+
+快速使用向导
+-------------------
+
+
+----------
+
+
+
+  * Markdown 语法 [帮助](http://wowubuntu.com/markdown/)
+  * DokuWiki 手册 [帮助](https://www.dokuwiki.org/manual)
+  * YLLYWiki 手册 [帮助](en:ylly_manual)
+  * DokuWiki 语法 [帮助](https://www.dokuwiki.org/wiki:syntax)
+
+
+
+  * :?:[[https://github.com/360youlun/devops/wiki|DevOps 更多帮助,请点我!]]
+  * :?:[[https://github.com/360youlun/youlun/wiki|Youlun 更多帮助,请点我!]]
+
+当前支持的功能
+-------------------
+
+----------
+
+ * [WYSIWYG](https://www.dokuwiki.org/plugin:wysiwyg)
+
+ * [Git Backend](https://www.dokuwiki.org/plugin:gitbacked)
+
+ * [Markdown](https://www.dokuwiki.org/plugin:markdown)
+
+ * [UI Language](https://www.dokuwiki.org/plugin:uilanguage?s[]=dokuwiki&s[]=plugin&s[]=uilanguage)
+
+ * [simplenavi](https://www.dokuwiki.org/plugin:simplenavi)
+  
+ * [discussion](https://www.dokuwiki.org/plugin:discussion)
+
+
+将要支持的功能
+--------------
+
+----------
+
+
+ * 历史清理 [plugin:clearhistory](https://www.dokuwiki.org/plugin:clearhistory)
+
+ * 插入表格  [plugin:edittable](https://www.dokuwiki.org/plugin:edittable) 
+
+ * 插入新页 [plugin:addnewpage](https://www.dokuwiki.org/plugin:addnewpage)
+
+ * 搜索插件 [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
+
+ * 翻译 [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
+
+ * 备份页面,修订历史、媒体、配置等所有内容 [plugin:backup](https://www.dokuwiki.org/plugin%3Abackup) 
+
+ * 创建一个简单的,基于复选框的ToDo列表 [ToDo Plugin](https://www.dokuwiki.org/plugin%3Atodo)
+
+ * 现在的目录页的所选的名称空间[Note Plugin](https://www.dokuwiki.org/plugin%3Anote)
+
+ * 显示已存在组的命名空间和页面权限 [Permission Info Plugin](https://www.dokuwiki.org/plugin:permissioninfo)
+
+
+常见问题（FAQ）
+--------------------------
+
+
+----------
+
+
+这页是发生不时提问的集合。
+
+:!: 新的频繁的问题是由开发团队添加的，所以请不要在这里添加问题和提问。
+
+**通常的题**
+
+* 8-o[[:en:I forgot my password|我忘了密码]]
+
+* [为什么没有登录按钮？](https://www.dokuwiki.org/faq:login)
+
+* [图片不工作](https://www.dokuwiki.org/faq:brokenimages)
+
+
+**Usage**
+
+* [如何添加页面?](https://www.dokuwiki.org/page#create_a_page)
+
+* [如何删除页面?](https://www.dokuwiki.org/page#delete_a_page)
+
+* [如何重命名页面?](https://www.dokuwiki.org/faq:howto-rename-pages)
+
+* [如何重定向一个页面?](https://www.dokuwiki.org/faq:redirect)
+
+* [如何添加一个sidebar?](https://www.dokuwiki.org/faq:sidebar)
+
+* [新行?](https://www.dokuwiki.org/faq:newlines)
+
+* [我怎样才能让某些页面不可写？](https://www.dokuwiki.org/faq:pageprotect)
+
+* [HTML 不工作怎么办？](https://www.dokuwiki.org/faq:html)
+
+* [如何删除媒体文件？](https://www.dokuwiki.org/faq:deletemedia)
+
+* [如何上传文件?](https://www.dokuwiki.org/faq:upload)
+
+* [不能缓存外部图像?](https://www.dokuwiki.org/faq:nocache)
+
+* [如何展示版本信息n?](https://www.dokuwiki.org/faq:version)
+
+* [我如何获取编辑按钮在部分编辑页面?](https://www.dokuwiki.org/faq:sectionedit)
+
+* [标题格式](https://www.dokuwiki.org/faq:headerlinks)
+
+* [我如何预插入一些默认的文本在新创建的页面？](https://www.dokuwiki.org/faq:namespace_templates)
+
+* [我可以反转 header语法吗?](https://www.dokuwiki.org/faq:reverse_headers)
+
+* [如何引用字符?](https://www.dokuwiki.org/faq:quoting)
+
+* [通知和订阅](https://www.dokuwiki.org/faq:notifications)
+
+* [工作列表](https://www.dokuwiki.org/faq:lists)
+
+* [如何备份 DokuWiki](https://www.dokuwiki.org/faq:backup)
+
+
+**故障排除**
+
+...... TODO
+
+
+更新日志
+-------------------
+
+
+----------
+
+这个页面包含一个总结官方DokuWiki版本之间的变化。这里只列出了最大的变化。一个完整和详细的所有更改的日志可以通过[[http://docs.ylly.co/release_notes.html |文档]]。
+
+
+
+- FIXME **fix javascript link not compatibility with ie**
+
+- FIXME **fix firefox compalibility bug**
+
+- FIXME **Fix sailings count after daily update, refine daily tasks**
+
+
+下载
+-------------------
+
+
+----------
+
+* {{:wiki:公司通讯录_2015.7.6更新_.xlsx|}}
+
+* {{:wiki:bestours-003_报销申请单_v1.1_3_.xlsx|}}
+
+----------
+:!: **More suggestion ,please jump to the message board.**
+
+[[:en:Message board]]

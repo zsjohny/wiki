@@ -1,0 +1,39 @@
+
+------------
+Pages
+------------
+
+------------
+
+- [[:en:start|English Home]]
+
+- [[:zh:start|Chinese Home]]
+
+- [[:en:start#Quiuick Start Guide|Quiuick Start Guide]]
+
+- [[:en:start#Frequently Asked Questions|FAQ]]
+
+- [[:en:start#Download|Download]]
+
+Department to guide
+------------
+
+------------
+
+- [[:zh:PM Team 产品经理团队]]
+- [[:zh:Company Page 公司主页]]
+- [[:zh:UI/UED Team 设计团队]]
+- [[:zh:Engineering Team 开发团队]]
+- [[:zh:Marketing 市场团队]]
+- [[:zh:Operations 操作团队]]
+- [[:zh:Content 内容团队]]
+- [[:zh:HR 人事]]
+
+
+
+More suggestions
+------------
+
+------------
+
+- [[:en:Suggestion]]

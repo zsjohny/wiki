@@ -1,0 +1,7 @@
+====== Why is there no login button? ======
+
+:?: How to login? There is no button!
+
+:!: ACL is disabled, please enable [[config:useacl]] in the [[:config#configuration_files|configuration]] (''local.php''), and make sure ''users.auth.php'' and ''acl.auth.php'' exist and are readable (better even writeable) by the web server.
+
+m( Btw,^^^ need DevOps help you!
